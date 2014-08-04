@@ -7,6 +7,10 @@
   },
   "author": "Naoise Golden Santos <naoise.golden@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/naoisegolden/meet-me-grunt.git"
+  },
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-uglify": "^0.5.1"
