@@ -4,6 +4,8 @@ Client-side app for the Meet Me App.
 
 ## Generation (with Grunt.js)
 
+    $ git init
+
     $ npm update npm -g
     $ npm init
     # modify generated package.json
