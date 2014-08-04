@@ -2,7 +2,6 @@
   "name": "meet-me-grunt",
   "version": "0.0.0",
   "description": "Client-side app for the Meet Me App.",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

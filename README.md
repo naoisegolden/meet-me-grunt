@@ -6,3 +6,4 @@ Client-side app for the Meet Me App.
 
     $ npm update npm -g
     $ npm init
+    # modify generated package.json
