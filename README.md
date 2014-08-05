@@ -7,6 +7,7 @@ Client-side app for the Meet Me App.
     $ git init
 
     $ npm update npm -g
+    $ npm install grunt-cli -g
     $ npm init
     # modify generated package.json
     $ npm install grunt --save-dev
