@@ -2,7 +2,7 @@
 
 Client-side app for the Meet Me App.
 
-## Generation (with Grunt.js)
+## Grunt.js
 
     $ git init
 
@@ -22,3 +22,10 @@ Client-side app for the Meet Me App.
     # create sass files
     # update Gruntfile
     $ grunt # css files are generated
+
+## Bower.js
+
+    $ npm install bower -g
+    
+    $ bower init
+    # modify generated bower.json
