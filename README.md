@@ -29,3 +29,6 @@ Client-side app for the Meet Me App.
     
     $ bower init
     # modify generated bower.json
+    
+    $ bower install bootstrap --save-dev
+    # add bower_components to .gitignore
